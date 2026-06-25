@@ -1,4 +1,4 @@
-# SummerStudent2025
+# SummerStudent2026
 Summer student examples and resources 2026
 
 * [Presentation Slides](https://github.com/brkent/SummerStudent2026/blob/main/Students-BKent-Python-MachLearn-AI-Astronomy-June-2026-distribute.pdf) - Click Download in the upper right
