@@ -1,5 +1,5 @@
 # SummerStudent2025
-Summer student examples and resources 2025
+Summer student examples and resources 2026
 
 * [Presentation Slides](https://github.com/brkent/SummerStudent2025/blob/main/Students-BKent-Python-MachLearn-Astronomy-June-2025-GitHub.pdf) - Click Download in the upper right
 * [Python tutorial (Supernova)](https://ivastar.github.io/python-novice-astro/)
