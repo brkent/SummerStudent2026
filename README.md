@@ -1,7 +1,7 @@
 # SummerStudent2025
 Summer student examples and resources 2026
 
-* [Presentation Slides](https://github.com/brkent/SummerStudent2025/blob/main/Students-BKent-Python-MachLearn-Astronomy-June-2025-GitHub.pdf) - Click Download in the upper right
+* [Presentation Slides](https://github.com/brkent/SummerStudent2026/blob/main/Students-BKent-Python-MachLearn-AI-Astronomy-June-2026-distribute.pdf) - Click Download in the upper right
 * [Python tutorial (Supernova)](https://ivastar.github.io/python-novice-astro/)
 * [AstroPy](http://www.astropy.org/)
 * [Matplotlib](https://matplotlib.org/gallery/index.html)
@@ -13,7 +13,7 @@ Summer student examples and resources 2026
 * [Blender tutorials](https://www.cv.nrao.edu/~bkent/blender/)
 * [Python resources](https://safe.nrao.edu/wiki/bin/view/Main/PythonResources)
 * [AstroPython](http://www.astropython.org/resources)
-* [Pycon](https://us.pycon.org/2025/)
+* [Pycon](https://us.pycon.org/2026/)
 * [Pandas](http://pandas.pydata.org/)
 * [Siggraph Conference](https://www.siggraph.org/)
 * [SciPy Conference](https://www.scipy2025.scipy.org/)
